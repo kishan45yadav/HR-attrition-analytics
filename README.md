@@ -51,7 +51,7 @@ Employee attrition is one of the most expensive challenges organizations face. T
 *Top predictors of attrition ranked by Random Forest importance scores*
 
 ### Confusion Matrix
-![Confusion Matrix](images/chart7_confusion_matrix.png)
+![Confusion Matrix](https://github.com/kishan45yadav/HR-attrition-analytics/blob/main/chart7_confusion_matrix.png?raw=true)
 *Model evaluation — actual vs. predicted attrition classification results*
 
 ---
