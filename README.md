@@ -39,7 +39,7 @@ Employee attrition is one of the most expensive challenges organizations face. T
 *Box plot comparing age distributions between employees who left vs. stayed*
 
 ### Monthly Income vs Attrition
-![Income vs Attrition](images/chart4_income_attrition.png)
+![Income vs Attrition](https://github.com/kishan45yadav/HR-attrition-analytics/blob/main/chart4_income_attrition.png?raw=true)
 *Income distribution analysis — lower earners show significantly higher attrition*
 
 ### Correlation Heatmap
