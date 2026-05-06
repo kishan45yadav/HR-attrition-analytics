@@ -47,7 +47,7 @@ Employee attrition is one of the most expensive challenges organizations face. T
 *Feature correlation matrix across all numeric HR variables*
 
 ### Feature Importance (ML Model)
-![Feature Importance](images/chart8_feature_importance.png)
+![Feature Importance](https://github.com/kishan45yadav/HR-attrition-analytics/blob/main/chart8_feature_importance.png?raw=true)
 *Top predictors of attrition ranked by Random Forest importance scores*
 
 ### Confusion Matrix
