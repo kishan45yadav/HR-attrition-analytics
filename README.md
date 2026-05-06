@@ -43,8 +43,7 @@ Employee attrition is one of the most expensive challenges organizations face. T
 *Income distribution analysis — lower earners show significantly higher attrition*
 
 ### Correlation Heatmap
-
-![Correlation Heatmap]([images/chart5_heatmap.png](https://github.com/kishan45yadav/HR-attrition-analytics/blob/main/chart5_heatmap.png?raw=true))
+![Correlation Heatmap](https://github.com/kishan45yadav/HR-attrition-analytics/blob/main/chart5_heatmap.png?raw=true)
 *Feature correlation matrix across all numeric HR variables*
 
 ### Feature Importance (ML Model)
