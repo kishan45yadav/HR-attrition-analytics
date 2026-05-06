@@ -158,24 +158,7 @@ pip install pandas matplotlib seaborn scikit-learn jupyter
 
 ---
 
-## 📂 How to Add Your Screenshots
 
-1. Export charts from the notebook (already done — saved as `chart1_*.png` through `chart8_*.png`)
-2. Take a screenshot of your Power BI dashboard
-3. Create an `images/` folder in the repo root
-4. Rename and move files as shown in the structure above
-5. Push to GitHub — the README will auto-display them
-
-```bash
-mkdir images
-cp chart*.png images/
-# Add your dashboard screenshot as images/dashboard_overview.png
-git add images/
-git commit -m "Add project screenshots"
-git push
-```
-
----
 
 ## 🎯 Skills Demonstrated
 
