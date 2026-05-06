@@ -176,8 +176,8 @@ pip install pandas matplotlib seaborn scikit-learn jupyter
 ## 👤 Author
 
 **Your Name**
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/kishan45yadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kishan-yadav-923340348?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
