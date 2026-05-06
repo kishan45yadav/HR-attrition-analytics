@@ -20,10 +20,11 @@ Employee attrition is one of the most expensive challenges organizations face. T
 
 ## 📸 Project Screenshots
 
-> 📁 **Place your screenshots in the `images/` folder and update the paths below.**
+> 
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/dashboard_overview.png)
+![image alt](https://github.com/kishan45yadav/HR-attrition-analytics/blob/main/Screenshot%20(68).png?raw=true)
+
 *Interactive Power BI dashboard with department filters, KPI cards, and attrition trends*
 
 ### Attrition by Department
