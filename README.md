@@ -31,7 +31,7 @@ Employee attrition is one of the most expensive challenges organizations face. T
 *Interactive Power BI dashboard with department filters, KPI cards, and attrition trends*
 
 ### Attrition by Department
-![Attrition by Department](images/chart2_attrition_dept.png)
+![Attrition by Department](https://github.com/kishan45yadav/HR-attrition-analytics/blob/main/chart2_attrition_dept.png?raw=true)
 *Bar chart showing attrition rate across all departments*
 
 ### Age vs Attrition
