@@ -35,7 +35,7 @@ Employee attrition is one of the most expensive challenges organizations face. T
 *Bar chart showing attrition rate across all departments*
 
 ### Age vs Attrition
-![Age vs Attrition](images/chart3_age_attrition.png)
+![Age vs Attrition](https://github.com/kishan45yadav/HR-attrition-analytics/blob/main/chart3_age_attrition.png?raw=true)
 *Box plot comparing age distributions between employees who left vs. stayed*
 
 ### Monthly Income vs Attrition
